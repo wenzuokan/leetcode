@@ -1,6 +1,5 @@
 package com.leet.code.greedy;
 
-import java.util.Arrays;
 
 /**
  * @author Drew
